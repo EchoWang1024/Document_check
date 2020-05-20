@@ -5,7 +5,7 @@
 ### 如何使用它?
 
 ```shell
->>> python3 FileDuplication 'Path'
+>>> python3 FileDuplication.py 'Path'
 ```
 ### result文件如下
 ![result](https://github.com/EchoWang1024/Document_check/blob/master/demo.jpeg)
