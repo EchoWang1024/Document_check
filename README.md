@@ -8,6 +8,7 @@
 >>> python3 FileDuplication 'Path'
 ```
 ### result文件如下
+![result](https://github.com/EchoWang1024/Document_check/blob/master/demo.jpeg)
 
 
 
