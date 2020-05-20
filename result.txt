@@ -1,0 +1,661 @@
+发现相同md5 d41d8cd98f00b204e9800998ecf8427e
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/META-INF
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/com/tencent
+发现相同md5 05b03753e7681cbd167156296cea1bea
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/anim/tr_cp_push_bottom_in.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/anim/slide_bottom_in.xml
+发现相同md5 26575cb55b80ecef715f42feb0ccfed2
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/anim/ad_slide_in_bottom.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/anim/slide_in_bottom.xml
+发现相同md5 d1a2850465abad24a41bd1e1e9d3ae51
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/anim/ad_slide_out_bottom.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/anim/slide_out_bottom.xml
+发现相同md5 6256d9f03b33969bf8c28084f51129ca
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/anim/slide_bottom_out.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/anim/tr_cp_push_bottom_out.xml
+发现相同md5 ec3cd9bb915c047b43f587486bd082f6
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/anim/no_anim_in.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/anim/no_anim.xml
+发现相同md5 6b822fa1a3935f7085a82fd442740287
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/icon_ad_five_stars_night.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_ad_five_stars_night.png
+发现相同md5 971ed9f14e5cbe76047dadc0454badf0
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_close_night.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_close_comment_ad_night.png
+发现相同md5 44ff8dcccdbe79641e8dd2ff567affa3
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_front_7.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_5.png
+发现相同md5 45cf83e740d4bc3be62049ef468207f2
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_arrow_left.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_arrow_left_gray.png
+发现相同md5 69ab0defc11cc74a0d6ec12b88768ce6
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_front_6.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_8.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_2.png
+发现相同md5 a6e080c484e0172d7ab27f2ea0caefcb
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_behind_9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_behind_7.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_behind_5.png
+发现相同md5 c809eb7c6a9f00447ddd1a0dd9cf3a3d
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_ad_five_stars.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/icon_ad_five_stars.png
+发现相同md5 2c68dd348bd8d02a52334b1d242eade9
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/mipush_small_notification.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxxhdpi-v4/mz_push_notification_small_icon.png
+发现相同md5 daee0685655e7b24ea45d11d50c25303
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_behind_8.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_behind_6.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_behind_2.png
+发现相同md5 231c87fce2979b53ba96653099e27db2
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_front_3.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_4.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_front_9.png
+发现相同md5 4aac09681e5743a1f51cf273b622f952
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_like_normal.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_like_middle.png
+发现相同md5 6a851ef2d0b7778ae0255ebdfb9e0469
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_position_select.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_image_checked.png
+发现相同md5 340352225264b3c20868b5c48e8a2325
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_front_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_6.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_front_8.png
+发现相同md5 ff2d1c40dc8ce409a4839a5776bc9b9b
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_close.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_ad_close.png
+发现相同md5 f6b2e419c9b53936128d1296267f26e7
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_arrow_up_night.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_arrow_up2_night.png
+发现相同md5 dfa613204eeef8ecf14ef8b15d22cd23
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/zuiyou_foreground_large.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/zuiyou_logo.png
+发现相同md5 6ceb985955c2a40e6a62bcf019176276
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/text_finish.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_selected.png
+发现相同md5 02ab0801cb3a076d71d05626acad0127
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_godreview_flag_night.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_godreview_flag.png
+发现相同md5 c3127a39d95f679e6f0adcc3f9ffcf5a
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_behind_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_behind_8.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_behind_6.png
+发现相同md5 283964db6b995ed52b78eb3bf0ce787d
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_emotion_remove.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_delete_item_in_emotion.png
+发现相同md5 8d3166047afd8e4aadb977e96b713ab4
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_behind_3.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_behind_9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_behind_4.png
+发现相同md5 b958578717f086bca454a723c747ab53
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_arrow_left_night.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_arrow_left_gray_night.png
+发现相同md5 44ff8dcccdbe79641e8dd2ff567affa3
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_5.png
+发现相同md5 69ab0defc11cc74a0d6ec12b88768ce6
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_8.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_2.png
+发现相同md5 4e98a9e95c873932ab86f7d18a72961d
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_notice_switch_cancel.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/icon_notice_switch_cancel.png
+发现相同md5 daee0685655e7b24ea45d11d50c25303
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_behind_6.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_behind_2.png
+发现相同md5 50ce42d77259f3f05383daad0a31e1a7
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_arrow_down_night.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_arrow_down2_night.png
+发现相同md5 0d4343195217dd8a30a848d40d756bfe
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_poundkey_black.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_topic_name_flag.png
+发现相同md5 7011db58c912e765e880a60dbc51d865
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/pic_corner_radius4_night.9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_hermes_view_corner_night.9.png
+发现相同md5 a6e080c484e0172d7ab27f2ea0caefcb
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_behind_7.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_behind_5.png
+发现相同md5 7b679bbe0e175ebfc6c582b9e1faca14
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_recommend_anim_9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_recommend_anim_3.png
+发现相同md5 ccb9634cd2f2ca78bb1cbe92f22bfdf7
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/zuiyou_foreground_small.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/mz_push_notification_small_icon.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/mipush_small_notification.png
+发现相同md5 d33836485df495e6e9b532f018a47aaf
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/bg_nearby_dialog_cancel.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/paperplane_dialog_close.png
+发现相同md5 11f991329c8458fcb50affd3d4f21277
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_ad_dialog_close.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_deselect_part.png
+发现相同md5 15ec4e3fad86a688abb4442d17bf69f9
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_publish_dialog.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/vip_ic_dlg_publish_close.png
+发现相同md5 8d3166047afd8e4aadb977e96b713ab4
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_behind_9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_behind_4.png
+发现相同md5 56b75ceaddb38debb6d2d4ccdafe32c2
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_3.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_7.png
+发现相同md5 a9b003a9e9a5814da37b7e4404005600
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/pic_zfj_nearby_plane_girl_4_3.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_behind_7.png
+发现相同md5 c3127a39d95f679e6f0adcc3f9ffcf5a
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_behind_8.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_behind_6.png
+发现相同md5 80172c64819219c02b6d4b6ab1ffdcfc
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_bg_datingcard.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/second_item_bg_repeat_bg.png
+发现相同md5 a364e0fb15a54667dae2fa017c0f15f7
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_arrow_up.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_arrow_up2.png
+发现相同md5 4a283529904db175c833c4935b58ecfb
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/icon_option_report.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/video_icon_report.png
+发现相同md5 ccb9634cd2f2ca78bb1cbe92f22bfdf7
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/mz_push_notification_small_icon.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/mipush_small_notification.png
+发现相同md5 231c87fce2979b53ba96653099e27db2
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_4.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_front_9.png
+发现相同md5 267d73664c8716baf011385d4e682524
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_delete_item_in_emotion_night.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_emotion_remove_night.png
+发现相同md5 340352225264b3c20868b5c48e8a2325
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_girl_front_6.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/img_plane_boy_front_8.png
+发现相同md5 5c73919d8296fa034f9bf7bdbaf313b1
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/chat_edit_background_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_replay_edittext_night.xml
+发现相同md5 9b3230c59b8969e5d95bffad5f789fce
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_ad_overlay_video.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_video2_flag.png
+发现相同md5 597ed1793442666c5c5a0240a2eeca08
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/video_icon_report_night.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/icon_option_report_night.png
+发现相同md5 e42e40cdd8a2f6af4cceb00c87cd31db
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_arrow_down.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xxhdpi-v4/ic_arrow_down2.png
+发现相同md5 0d8408673467c31badc3e5b8b61d0e38
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/color-v23/abc_tint_edittext.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/color-v23/abc_tint_spinner.xml
+发现相同md5 3c396450a10862d47d8c1267afb8106c
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/drawable_shimmer_avatar_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/drawable_shimmer_avatar.xml
+发现相同md5 ce38b09fc0e260bcc285e0e4e9754950
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/ad_view_corner_bg.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/ad_view_corner_bg_night.xml
+发现相同md5 01cfe132306c89a92d5ad622e8de24e8
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_radius25_red.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_radius25_red1.xml
+发现相同md5 518bdd00f94e9a84dbc4fab4d1f000a2
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_radius15_cm_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_recommend_tip_night.xml
+发现相同md5 9fd1793aa97e960b1263f71adcc89be2
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_avatar_circle_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_daren_avatar_night.xml
+发现相同md5 a58c8558f62cbd1a098e7f9e7c68718f
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/tt_seek_thumb_fullscreen.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/tt_seek_thumb_fullscreen_press.xml
+发现相同md5 9848f7e4ca43f1dcd5a643d3b70ac7a5
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/post_topic_follow_small_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/post_topic_follow_night.xml
+发现相同md5 a71fb2523c7a016fbc10065f161f548a
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/ad_media_cover_bottom.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_media_image_bottom_bottom.xml
+发现相同md5 e91de8f64d87ec5e360fc25edb148774
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_show_position_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_common_item_view_option_item_night.xml
+发现相同md5 6acfa6b58291a6e855e06ef6dd1e4444
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/shape_bg_tedium_input_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/emotion_top_label_item_bg_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_tagcloudlayout_tag_night.xml
+发现相同md5 6acfa6b58291a6e855e06ef6dd1e4444
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/emotion_top_label_item_bg_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_tagcloudlayout_tag_night.xml
+发现相同md5 0dc7814e215795cb7c7765b5b93f82b1
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_channeldetail_indicator_top.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/ad_op_view_bg.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_load_more.xml
+发现相同md5 6046e0c9502a9552665d2b34bbd14970
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/post_topic_bg_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_interest_member_item_night.xml
+发现相同md5 0e4eba7302bd01b44a58369dde04684a
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_longpic_flag.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_longpic_flag_night.xml
+发现相同md5 91db2d6b1775d52ced799ba06a82e881
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_tagcloudlayout_tag.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/shape_bg_tedium_input.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/emotion_top_label_item_bg.xml
+发现相同md5 72dc5b7271b0b3568f505999c6ee6997
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_only_confirm_dialog.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_permission_dialog.xml
+发现相同md5 e98e0affb6cfc573d22c7b6f5d66abde
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/preference_list_divider_material.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/abc_list_divider_material.xml
+发现相同md5 ec1c0d9cb6415e05be9575886a8a8ef1
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/dialog_bg_wiki.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/dialog_topic_entrance_guide_bg.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_channel_filter.xml
+发现相同md5 93fe1e087f91f85acaf55f590fb5afa7
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_withdraw_btn_next_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_radius20_cm_night.xml
+发现相同md5 c63e6e1dce6fbbc3a7eaefab8abf7622
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_button_login.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_radius25_cm.xml
+发现相同md5 c9da28b522b8653109b23a4f4eb46474
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/vip_home_bg_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/vip_navbar_bg_night.xml
+发现相同md5 89cbdf26209f4a47d47adeee070a0a63
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/vip_navbar_bg.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/vip_home_bg.xml
+发现相同md5 feb71d78a593a37837adca08f1ff2d72
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/ad_dialog_close_btn_bg.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/ad_dialog_app_logo_bg.xml
+发现相同md5 ec1c0d9cb6415e05be9575886a8a8ef1
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/dialog_topic_entrance_guide_bg.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_channel_filter.xml
+发现相同md5 4db44ffb8254c339da416a4ea1ec7e3a
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_dialog_topic_entrance_guide_btn.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/dialog_btn_blue_bg.xml
+发现相同md5 518c21588caabed0016eb9b8fd4e9819
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_common_bottom_sheet_dialog.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/default_card_left_right_corner_bg.xml
+发现相同md5 309a681a9c6023f52b6a063d3ffb52e2
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_permission_oppo_dialog.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_conversation_time.xml
+发现相同md5 69ad297cb7a47896aaece252e829d283
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_dialog_topic_entrance_guide_btn_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/dialog_btn_blue_bg_night.xml
+发现相同md5 674df6cb07c1f490d7ffe1c3a5979e77
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_gift_panel_index_unselect.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_radius2_white20.xml
+发现相同md5 bcac8d1f2b42619d3b46725998dff236
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_publish_add_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_topic_feed_card_content_night.xml
+发现相同md5 91db2d6b1775d52ced799ba06a82e881
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/shape_bg_tedium_input.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/emotion_top_label_item_bg.xml
+发现相同md5 0dc7814e215795cb7c7765b5b93f82b1
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/ad_op_view_bg.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_load_more.xml
+发现相同md5 2ef6613e5f074b3239f47b01b14ced2e
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/dialog_bg_wiki_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/dialog_topic_entrance_guide_bg_night.xml
+发现相同md5 9dbfd5671ffb27d06e150737fc718480
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_media_image_bottom_top.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/ad_media_cover_top.xml
+发现相同md5 9341d0c8736043072f2c8a6b68c2588f
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/vote_list_bg.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/link_round_corner_mask.xml
+发现相同md5 2375690d1a8302ed4c036523fc3f9c7f
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/sheet_bg.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_radius6_cb.xml
+发现相同md5 1a218bcf290592dbeb09f20d67e9868f
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_post_detail_comment.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_topic_feed_card_content.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_publish_add.xml
+发现相同md5 30171d04eca2c88997f0e9273d8b940a
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_media_good_stuff_card.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_radius6_cl4.xml
+发现相同md5 7fb89c2a9f9da8a4db8ea5725da1d1e4
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_common_item_view_option_item.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_show_position.xml
+发现相同md5 842f325ebd4aaa276ec844bffcf8963a
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_load_more_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_channeldetail_indicator_top_night.xml
+发现相同md5 45a464c25516e740c7a3193bfab748c7
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_avatar_circle.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_daren_avatar.xml
+发现相同md5 e5b2d37bd15032dc559bd1c1e68706ac
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_hanfu_staggered_item.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_datingcard_edit_confirm.xml
+发现相同md5 cc5788664a5abfaa7cd6d6980c9cd2b2
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_withdraw_btn_next.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_radius20_cm.xml
+发现相同md5 a39f8cdf16dad4a60e0a447b66e1d7d3
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_radius3_cb_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_radius_3dp_night.xml
+发现相同md5 bcec6e526e05506471468674bcbd888b
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_post_link.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/post_game_entrance_bg.xml
+发现相同md5 ac9eeb6dc61f5b3f0d12d80e0e539578
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_interest_member_item.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/post_topic_bg.xml
+发现相同md5 a138181d983b9250d4fdfd0dde38b0e7
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_dialog_privilege_action.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_young_mode_click_btn.xml
+发现相同md5 fd582263076cf66365398632f2308895
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_permission_dialog_negative_btn_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_btn_negative_night.xml
+发现相同md5 2ed4f9c5733c1e947fa6b36b9c6e9b5b
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_btn_negative.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_permission_dialog_negative_btn.xml
+发现相同md5 1a218bcf290592dbeb09f20d67e9868f
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_topic_feed_card_content.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable/bg_publish_add.xml
+发现相同md5 f11a5d618ae7f458e7621335a2a0f0ce
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/mipmap-xhdpi-v4/com_taobao_nb_sdk_web_view_title_bar_close.9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/mipmap-xxhdpi-v4/com_taobao_nb_sdk_web_view_title_bar_close.9.png
+发现相同md5 091840b829850ebd73455325ce4bd051
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/mipmap-xhdpi-v4/com_taobao_nb_sdk_web_view_title_bar_back.9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/mipmap-xxhdpi-v4/com_taobao_nb_sdk_web_view_title_bar_back.9.png
+发现相同md5 3f3adef73c2c11bbb521484c8018643a
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_live.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_review.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_question.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_post.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_link.xml
+发现相同md5 fdf4047df67723437847a753e2741711
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/scroll_picker_default_item_layout.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/my_scroll_picker_item_layout.xml
+发现相同md5 25373cecaa51075083eab392568f084b
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/fragment_media_browser_image.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/fragment_media_image_browser.xml
+发现相同md5 cba7a605e39734d770b1f6ad4318772e
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_live.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_review.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_post.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_link.xml
+发现相同md5 3f3adef73c2c11bbb521484c8018643a
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_review.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_question.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_post.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_link.xml
+发现相同md5 a6ad227e9e46cdf809446303e6b0b1c8
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_discussion_notification_message.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_group_information_notification_message.xml
+发现相同md5 0829626fc47f7947f33eb588f95dece4
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_revoke.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_revoke.xml
+发现相同md5 3f3adef73c2c11bbb521484c8018643a
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_question.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_post.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_link.xml
+发现相同md5 629bcb2249c32c08b26cdef6c897af5c
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/fragment_media_browser_gif.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/fragment_media_gif_browser.xml
+发现相同md5 12f04493bbbc1ef3e43d27fdcd32a18a
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/fragment_debug_status.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/fragment_debug_network.xml
+发现相同md5 28658b14455682a43f7e5005777b2de8
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_system_conversation.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_public_service_conversation.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_group_conversation.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_app_service_conversation.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_discussion_conversation.xml
+发现相同md5 cba7a605e39734d770b1f6ad4318772e
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_review.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_post.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_link.xml
+发现相同md5 28658b14455682a43f7e5005777b2de8
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_public_service_conversation.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_group_conversation.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_app_service_conversation.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_discussion_conversation.xml
+发现相同md5 28658b14455682a43f7e5005777b2de8
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_group_conversation.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_app_service_conversation.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_discussion_conversation.xml
+发现相同md5 28658b14455682a43f7e5005777b2de8
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_app_service_conversation.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/rc_item_discussion_conversation.xml
+发现相同md5 3f3adef73c2c11bbb521484c8018643a
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_post.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_self_link.xml
+发现相同md5 cba7a605e39734d770b1f6ad4318772e
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_post.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/layout/view_item_chat_link.xml
+发现相同md5 f94dfc8b7dedc595815ecdd66f35fba4
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_btn_open_file_normal.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_cs_leave_message_bg.png
+发现相同md5 05f6d9f33cd465d6d303e0c35ab382a3
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_cs_back_icon.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_ext_back.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_back_icon.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_ac_file_preview.png
+发现相同md5 3c713bacc9ccb2162f2323b0b4a788fc
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_public_service_menu_bg.9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_input_sub_menu_bg.9.png
+发现相同md5 d85335c4867f7e49bb178c79603ea698
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/tt_shadow_lefterback_titlebar_withoutnight.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/tt_shadow_lefterback_titlebar.png
+发现相同md5 09a2478a8198cd4dfea846af3ab9b8f1
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_btn_open_file_selected.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_cs_leave_message_bg_hover.png
+发现相同md5 a7b9c4121e4b432fe92ced32046f1c27
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_grid_image_default.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_image_default.png
+发现相同md5 f3caaf4c3582aa742d04a70ebabbb5d6
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/jhsdk_ad_close.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-hdpi-v4/jhsdk_ad_close.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-hdpi-v4/gdt_ic_express_close.png
+发现相同md5 a9ee51047cb7547f9ef3c68d81ec1886
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/tt_new_pause_video_press.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/tt_new_pause_video.png
+发现相同md5 81c634ce2bc180b034f9f547d7888dcd
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_unread_remind_without_count.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_voice_unread.png
+发现相同md5 46077973b59dd56687e15a0e4d7071df
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_ext_realtime_default_avatar.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_default_portrait.png
+发现相同md5 05f6d9f33cd465d6d303e0c35ab382a3
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_ext_back.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_back_icon.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_ac_file_preview.png
+发现相同md5 05f6d9f33cd465d6d303e0c35ab382a3
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_back_icon.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_ac_file_preview.png
+发现相同md5 aa75d0b30b3a500089d21e3e9b3eef19
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/mz_push_notification_small_icon.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-hdpi-v4/mipush_small_notification.png
+发现相同md5 ab451596eb85a26e88603613330bfd17
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_receive_voice_three.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/rc_voice_icon_left.png
+发现相同md5 3856a749d5f0b1af12f8d95cb84dc393
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+发现相同md5 558a2b6ac94e322050fe9d0c3db5476c
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/tt_shadow_lefterback_titlebar_press.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-xhdpi-v4/tt_shadow_lefterback_titlebar_press_withoutnight.png
+发现相同md5 943533d2060cc48e0abd86ac4b8bb998
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/color/selector_txt_datingcard_post_edit_night.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/color/selector_notify_txt_count_night.xml
+发现相同md5 13a491f069d3cf70af1ab8e7f6203286
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/color/selector_notify_txt_count.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/color/selector_txt_datingcard_post_edit.xml
+发现相同md5 4f09ac2cc921476052fd5f9039071c18
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/color/selector_color_channel_filter_item.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/color/post_staggered_like_text.xml
+发现相同md5 e105fac68e1a9c4bb93a5a36998d9e50
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-v21/preference_list_divider_material.xml
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-v21/abc_list_divider_material.xml
+发现相同md5 8e7cf7564c404bef16b68aa5eca4b80e
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-mdpi-v4/mipush_small_notification.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-mdpi-v4/mz_push_notification_small_icon.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-hdpi-v4/mz_push_notification_small_icon.png
+发现相同md5 8e7cf7564c404bef16b68aa5eca4b80e
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-mdpi-v4/mz_push_notification_small_icon.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-hdpi-v4/mz_push_notification_small_icon.png
+发现相同md5 3856a749d5f0b1af12f8d95cb84dc393
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+发现相同md5 f3caaf4c3582aa742d04a70ebabbb5d6
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-hdpi-v4/jhsdk_ad_close.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/res/drawable-hdpi-v4/gdt_ic_express_close.png
+发现相同md5 08e41ce3de18cc9c02c4c6e2fcb354e2
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/mipmap-xxxhdpi/ic_launcher.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/mipmap-nodpi/ic_launcher.png
+发现相同md5 0d70661372491a7cd0a92649273683b5
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_4/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_3/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_2/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_5/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_1/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_1/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_1.png
+发现相同md5 bcea8cb5718562065f47ecdb69a63f18
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_4/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_3/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_2/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_5/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_1/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_1/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_0.png
+发现相同md5 0d70661372491a7cd0a92649273683b5
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_3/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_2/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_5/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_1/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_1/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_1.png
+发现相同md5 bcea8cb5718562065f47ecdb69a63f18
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_3/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_2/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_5/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_1/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_1/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_0.png
+发现相同md5 0d70661372491a7cd0a92649273683b5
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_2/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_5/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_1/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_1/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_1.png
+发现相同md5 bcea8cb5718562065f47ecdb69a63f18
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_2/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_5/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_1/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_1/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_0.png
+发现相同md5 0d70661372491a7cd0a92649273683b5
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_5/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_1/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_1/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_1.png
+发现相同md5 bcea8cb5718562065f47ecdb69a63f18
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_5/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_1/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_1/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_0.png
+发现相同md5 0d70661372491a7cd0a92649273683b5
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_1/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_1/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_1.png
+发现相同md5 bcea8cb5718562065f47ecdb69a63f18
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_1/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_1/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_0.png
+发现相同md5 0d70661372491a7cd0a92649273683b5
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_1/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_1.png
+发现相同md5 bcea8cb5718562065f47ecdb69a63f18
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_girl_1/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_0.png
+发现相同md5 0d70661372491a7cd0a92649273683b5
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_1.png
+发现相同md5 bcea8cb5718562065f47ecdb69a63f18
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_5/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_0.png
+发现相同md5 0d70661372491a7cd0a92649273683b5
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_1.png
+发现相同md5 bcea8cb5718562065f47ecdb69a63f18
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_2/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_0.png
+发现相同md5 0d70661372491a7cd0a92649273683b5
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_1.png
+发现相同md5 bcea8cb5718562065f47ecdb69a63f18
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_3/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/paperplane/paperplane_match_success/images_boy_4/img_0.png
+发现相同md5 a2b3244ce5f244f26a185a16bc78ea45
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/horizontal_video_play_guide/images/Combined_Shape.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/vertical_video_play_guide/images/Combined_Shape.png
+发现相同md5 616dbfab0499bd6f20176f1bb4434f9f
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/horizontal_video_play_guide/images/Group_2.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/vertical_video_play_guide/images/Group_2.png
+发现相同md5 8f0a9406dc0889b5a1ebb33da02941fe
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/horizontal_video_play_guide/images/Group_21212.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/vertical_video_play_guide/images/Group_2_01212.png
+发现相同md5 d1c50cd1c0bb9d8c6e386a32f563e488
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_1.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_2.png
+发现相同md5 c916ba97203f4f4cb1b677c0bf2a4948
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_0.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_4.png
+发现相同md5 b8a7f44ca312bbad802fc64a106714fe
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_13.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_12.png
+发现相同md5 0d0217f54c2710dbe69330596e770d24
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_16.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_17.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_15.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_14.png
+发现相同md5 626a2948c41c14ce6f8d062ba2834313
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_7.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_6.png
+发现相同md5 0d0217f54c2710dbe69330596e770d24
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_17.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_15.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_14.png
+发现相同md5 0d0217f54c2710dbe69330596e770d24
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_15.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_14.png
+发现相同md5 350ec214058b710c941e566bfd0b4aa8
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_19.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_18.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_20.png
+发现相同md5 1ab9d227e747abcbb5478fbcef372657
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_9.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_22.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_21.png
+发现相同md5 350ec214058b710c941e566bfd0b4aa8
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_18.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_20.png
+发现相同md5 1ab9d227e747abcbb5478fbcef372657
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_22.png
+/Users/wangzhen/mywork/ZuiyouTestframe/ZuiyouAutoTest/test_tools/apk_duplication/temp/tieba/assets/anim/channel/anim_like_mutual/images/img_21.png
